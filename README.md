@@ -47,5 +47,3 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 [Discord]: http://discordapp.com/users/288062852676190220
 [instagram]: https://www.instagram.com/manuel_muniz03/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/manuel-muniz/
-
-![sass](https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg)
