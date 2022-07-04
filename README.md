@@ -27,7 +27,7 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 
 ## :mailbox_with_mail: Connect With Me
 
-  <a href="https://www.linkedin.com/in/manuel-muniz/" target="_blank">
+  <a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
     
@@ -44,6 +44,5 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
   </a> 
 
 [website]: https://manu-developer.github.io/Personal-Portfolio/
-[Discord]: http://discordapp.com/users/288062852676190220
 [instagram]: https://www.instagram.com/manuel_muniz03/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/manuel-muniz/?locale=en_US
