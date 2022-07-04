@@ -46,4 +46,4 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 [website]: https://manu-developer.github.io/Personal-Portfolio/
 [Discord]: http://discordapp.com/users/288062852676190220
 [instagram]: https://www.instagram.com/manuel_muniz03/?hl=es-la
-[linkedin]: https://www.linkedin.com/in/manuel-muniz/
+[linkedin]: https://www.linkedin.com/in/manuel-muniz/?locale=en_US
