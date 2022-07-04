@@ -12,8 +12,8 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/61896414/177214054-7ebe3e84-e89a-40d2-8828-e32e37654449.svg" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/61896414/177214383-79574728-21d3-4131-a32e-ad44630fc665.svg" />][website]
+[<img align="left" alt="Sass" width="26px" src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][website]
@@ -47,3 +47,5 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 [Discord]: http://discordapp.com/users/288062852676190220
 [instagram]: https://www.instagram.com/manuel_muniz03/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/manuel-muniz/
+
+![sass](https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg)
