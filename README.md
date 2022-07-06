@@ -26,14 +26,14 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 <br/>
 
 ## :mailbox_with_mail: Connect With Me
-
-  <a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
     
   <a href = "mailto:manuelmuniz.uy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  
+   <a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
   
   <a href="https://www.instagram.com/manuel_muniz03/?hl=es" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
