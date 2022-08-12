@@ -15,7 +15,7 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/61896414/177214383-79574728-21d3-4131-a32e-ad44630fc665.svg" />][website]
 [<img align="left" alt="Sass" width="26px" src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" />][website]
 [<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/61896414/184404312-bea59dd5-173d-485a-a506-12b9817ed932.svg" />][website]
-[<img align="left" alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/61896414/184404546-3850e9aa-0118-4abe-8c9c-6cd6928b6503.svg" />][website]
+[<img align="left" alt="Tailwind" width="26px" src="https://user-images.githubusercontent.com/61896414/184408795-75ccb527-6986-4b6a-983c-814ca46ea7b7.svg" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][website]
