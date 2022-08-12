@@ -23,6 +23,7 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 [<img align="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" />][website]
 [<img align="left" alt="Figma" width="26px" src="https://static.figma.com/app/icon/1/favicon.png" />][website]
 [<img align="left" alt="Illustrator" width="26px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-5.png" />][website]
+[<img align="left" alt="Npm" width="26px" src="https://user-images.githubusercontent.com/61896414/184428085-231b2ee2-f1fa-493f-8e48-1a4c12649df0.svg" />][website]
 
 <br/>
 <br/>
