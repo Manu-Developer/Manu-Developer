@@ -10,20 +10,20 @@ It'd be a pleasure to work with you on any kind of project so don't hesitate to 
 
 ## :hammer_and_wrench: Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" />
-<img align="left" alt="CSS3" width="35px" src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg" />
-<img align="left" alt="Sass" width="35px" src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" />
-<img align="left" alt="Bootstrap" width="35px" src="https://user-images.githubusercontent.com/61896414/184404312-bea59dd5-173d-485a-a506-12b9817ed932.svg" />
-<img align="left" alt="Tailwind" width="35px" src="https://user-images.githubusercontent.com/61896414/184408795-75ccb527-6986-4b6a-983c-814ca46ea7b7.svg" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="35px" src="https://user-images.githubusercontent.com/61896414/184429180-6a7e76e3-d106-4ccb-87ef-d2ff26687274.svg" />
-<img align="left" alt="Linux" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Jest" width="35px" src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" />
-<img align="left" alt="Npm" width="35px" src="https://user-images.githubusercontent.com/61896414/184428397-f093e2fa-8f90-44f7-950f-950685b7b67a.svg" />
-<img align="left" alt="Figma" width="35px" src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg" />
-<img align="left" alt="Illustrator" width="35px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg" />
+<img align="left" alt="Sass" width="30px" src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" />
+<img align="left" alt="Bootstrap" width="30px" src="https://user-images.githubusercontent.com/61896414/184404312-bea59dd5-173d-485a-a506-12b9817ed932.svg" />
+<img align="left" alt="Tailwind" width="30px" src="https://user-images.githubusercontent.com/61896414/184408795-75ccb527-6986-4b6a-983c-814ca46ea7b7.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/61896414/184429180-6a7e76e3-d106-4ccb-87ef-d2ff26687274.svg" />
+<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Jest" width="30px" src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" />
+<img align="left" alt="Npm" width="30px" src="https://user-images.githubusercontent.com/61896414/184428397-f093e2fa-8f90-44f7-950f-950685b7b67a.svg" />
+<img align="left" alt="Figma" width="30px" src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg" />
+<img align="left" alt="Illustrator" width="30px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" />
 
 <br/>
 <br/>
