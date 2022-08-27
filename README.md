@@ -2,11 +2,11 @@
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
-With strong logical skills in programming languages like Javascript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
+With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
 
 I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.
 
-It'd be a pleasure to work with you on any kind of project so don't hesitate to contact me, I'm always available!
+It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!
 
 ## :hammer_and_wrench: Languages and Tools:
 
