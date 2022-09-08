@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel :wave:
+# Hi there, I'm Manuel :wave: 👨‍💻
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
