@@ -1,5 +1,7 @@
 # Hi there, I'm Manuel <img src="https://user-images.githubusercontent.com/61896414/189249114-319675fd-4347-4f38-89de-003f3f9e40ae.gif" width="60" />
 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
 With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
