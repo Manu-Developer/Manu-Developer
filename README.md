@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel <img src="https://user-images.githubusercontent.com/61896414/189248494-980e9e1a-219b-49aa-b476-4bf2656f5b69.gif" width="25" />
+# Hi there, I'm Manuel <img src="https://user-images.githubusercontent.com/61896414/189248494-980e9e1a-219b-49aa-b476-4bf2656f5b69.gif" width="40" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
