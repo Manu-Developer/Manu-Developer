@@ -3,6 +3,7 @@
 </a>
 
 <br />
+<br />
 
 Welcome to my profile!👋 I'm Manuel Muñiz, a Software Developer from 📍Uruguay.
 
