@@ -1,6 +1,8 @@
 <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg" />
 
-<img width="50%" align="right" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189253778-256713f7-65d8-4bf1-9a91-97eb43ad926b.gif" />
+
+<img width="50%" align="right" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189256952-d2dce6f3-4f62-41b7-bc1b-e97e821cf9d4.gif" />
+
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
