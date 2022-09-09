@@ -30,7 +30,6 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 [<img align="left" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" style="padding-right:10px;" />][portfolio]
 
 <br />
-<br />
 
 ## 📈 My GitHub & Coding Stats
 
