@@ -1,7 +1,4 @@
-![Banner (1)](https://user-images.githubusercontent.com/61896414/189265101-96c1b285-5fc3-47b1-95ee-c3522090cc6f.svg)
-
-
-<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg" />
+<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189265101-96c1b285-5fc3-47b1-95ee-c3522090cc6f.svg" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
