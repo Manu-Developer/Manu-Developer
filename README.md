@@ -13,7 +13,7 @@ My goal with coding is to help others 🎯. I enjoy being able to create somethi
 
 It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩 
 
-Thanks for visiting!🚀
+Thanks for visiting!
 
 ## 🛠️ Languages & Tools
 
