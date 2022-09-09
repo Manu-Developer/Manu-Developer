@@ -2,7 +2,7 @@
   <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189269511-7514715e-bf2f-48a2-9553-0ddce083e78b.svg" target="_blank"/>
 </a>
 
-#### Here is Manuel, a passionate guy about programming who is currently living in Uruguay.
+### Here is Manuel, a passionate guy about programming who is currently living in Uruguay.
 
 With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
 
