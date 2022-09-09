@@ -1,5 +1,3 @@
-![Banner]()
-
 <img height="100%" align="right" alt="Github" src="https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
