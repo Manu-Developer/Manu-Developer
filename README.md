@@ -14,10 +14,9 @@
 
 <div align="left">
   <a href="https://github.com/manu-developer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-developer&layout=compact&langs_count=7&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-developer&layout=compact&langs_count=7&theme=jolly"/>
 </div>
-
 
 ## <img src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
 
