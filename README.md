@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel :wave: 👨‍💻 👏
+# Hi there, I'm Manuel :wave: ![gif2](https://user-images.githubusercontent.com/61896414/189246965-5b78b5d1-76a6-44e3-be93-1bd11000eb12.gif)
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
