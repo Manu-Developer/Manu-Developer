@@ -32,6 +32,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 <br />
 <br />
 <hr display="block" align="left"></hr>
+<div align="left" style="display:block;" ></div>
 
 ## 📈 My GitHub & Coding Stats
 
