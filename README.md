@@ -3,9 +3,7 @@
 </a>
 
 <br>
-		<br>
-		<br>
-
+<br>
 
 Here is Manuel, a passionate guy about programming who is currently living in Uruguay.
 
