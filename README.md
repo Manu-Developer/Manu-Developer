@@ -1,4 +1,4 @@
-<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189268697-0db1a7d3-6d45-4392-bf69-dc2c1de90c59.svg" />
+<img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189269341-848a934a-caa2-4329-9df0-31ecb07b216f.svg" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
