@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Welcome to my profile!👋 I'm Manuel Muñiz, a Software Developer from 📍 Uruguay.
+Welcome to my profile!👋 I'm Manuel Muñiz, a Software Developer from 📍Uruguay.
 
 I'm currently a student pursuing my Bachelor of Computer Science from Universidad de la República (UDELAR), Uruguay 📚. I'm a passionate learner who's always willing to learn and work across technologies and domains 🚀. I love to explore new technologies and leverage them to solve real-life problems ✨. I’m currently into Frond-End Development 🌐 and working on my Data Structures and Algorithms 🤓. 
 
@@ -40,18 +40,18 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 
 ## <img alt="connectWithMe" src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
 
-  <a href = "mailto:manuelmuniz.uy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+<a href = "mailto:manuelmuniz.uy@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
   
-   <a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+<a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
   
-  <a href="https://www.instagram.com/manuel_muniz03/?hl=es" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+<a href="https://www.instagram.com/manuel_muniz03/?hl=es" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
   
-  [portfolio]: https://manu-developer.github.io/Portfolio/
-  [instagram]: https://www.instagram.com/manuel_muniz03/?hl=es
-  [linkedin]: https://www.linkedin.com/in/manuel-muniz/?locale=en_US
+[portfolio]: https://manu-developer.github.io/Portfolio/
+[instagram]: https://www.instagram.com/manuel_muniz03/?hl=es
+[linkedin]: https://www.linkedin.com/in/manuel-muniz/?locale=en_US
