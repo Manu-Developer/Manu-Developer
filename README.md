@@ -1,23 +1,22 @@
 <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189269511-7514715e-bf2f-48a2-9553-0ddce083e78b.svg" target="_blank"/>
 
-Here is Manuel, a passionate about programming who is currently living in Uruguay.
+<p>Here is Manuel, a passionate about programming who is currently living in Uruguay.</p>
 
-With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
+<p>With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.</p>
 
-I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.
+<p>I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.</p>
 
-It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!
+<p>It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!</p>
 
 ## <img src="https://user-images.githubusercontent.com/61896414/189260901-5a16af87-4e16-4a8e-a2a2-271180a9a0f6.gif" width="20" target="_blank"/> Languages & Tools
 
 <p align="left"><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" alt="HTML5" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg" alt="CSS3" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" alt="Sass" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184504340-85aaff91-7e8e-4e62-ab34-de91dbebdde2.svg" alt="Bootstrap" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184408795-75ccb527-6986-4b6a-983c-814ca46ea7b7.svg" alt="Tailwind" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184429180-6a7e76e3-d106-4ccb-87ef-d2ff26687274.svg" alt="Git" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428397-f093e2fa-8f90-44f7-950f-950685b7b67a.svg" alt="Npm" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" alt="Jest" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg" alt="Figma" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" alt="Illustrator" width="30"/> </a></p>
 
-
-![Manu-Developer GitHub stats](https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=jolly)
-
-
-
-
+div align="center">
+  <a href="https://github.com/manu-developer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-developer&layout=compact&langs_count=7&theme=jolly"/>
+</div>
 
 
 ## <img src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
