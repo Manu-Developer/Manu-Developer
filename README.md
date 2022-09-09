@@ -1,5 +1,7 @@
 <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg" />
 
+<img width="50%" align="right" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189253778-256713f7-65d8-4bf1-9a91-97eb43ad926b.gif" />
+
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
 With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
