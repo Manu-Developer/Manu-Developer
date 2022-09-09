@@ -27,7 +27,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg" style="padding-right:10px;" />][portfolio]
-[<img align="left" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" style="padding-right:10px;" />][portfolio]
+[<img align="left" style="display:block;" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" style="padding-right:10px;" />][portfolio]
 
 <br />
 <br />
