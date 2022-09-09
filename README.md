@@ -31,6 +31,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 
 <br />
 <br />
+<br />
 
 ## 📈 My GitHub & Coding Stats
 
