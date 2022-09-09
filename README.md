@@ -9,11 +9,11 @@ Welcome to my profile!👋 I'm Manuel Muñiz, a Software Developer from 📍Urug
 
 I'm currently a student pursuing my Bachelor of Computer Science from Universidad de la República (UDELAR), Uruguay 📚. I'm a passionate learner who's always willing to learn and work across technologies and domains 🚀. I love to explore new technologies and leverage them to solve real-life problems ✨. I’m currently into Frond-End Development 🌐 and working on my Data Structures and Algorithms 🤓.
 
-My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions in order to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.
+My goal with coding is to help others 🎯. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions in order to improve the product 📦.
 
 It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩 
 
-Thanks for visiting!
+Thanks for visiting!🚀
 
 ## 🛠️ Languages & Tools
 
