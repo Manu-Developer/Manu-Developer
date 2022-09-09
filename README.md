@@ -1,6 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg)
+![Banner]()
 
-<img width="273px" height="253px" align="right" alt="Github" src="https://user-images.githubusercontent.com/61896414/189250575-60aa9cce-44e4-4022-922c-819fa49872f0.gif" />
+<img height="100%" align="right" alt="Github" src="https://user-images.githubusercontent.com/61896414/189251290-310d075b-4865-4d8f-be12-768629f94c8f.svg" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
