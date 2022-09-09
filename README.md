@@ -3,8 +3,11 @@
 <img width="23%" align="right" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189257104-a87a9651-e080-48eb-9352-b00473dac89d.gif" />
 
 Here is Manuel, a passionate about programming who is currently living in Uruguay.
+
 With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
+
 I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.
+
 It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!
 
 ## <img src="https://user-images.githubusercontent.com/61896414/189260901-5a16af87-4e16-4a8e-a2a2-271180a9a0f6.gif" width="20" /> Technologies and Tools:
