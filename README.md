@@ -13,8 +13,6 @@ My goal with coding is to help others 🎯. I enjoy being able to create somethi
 
 It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩 
 
-Thanks for visiting!
-
 ## 🛠️ Languages & Tools
 
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" style="padding-right:10px;" />][portfolio]
