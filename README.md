@@ -14,6 +14,7 @@ I'm extremely interested in areas such as Front-End Development & Graphic Design
 It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!
 
 ## 🛠️ Languages & Tools
+<br />
 
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg" style="padding-right:10px;" />][portfolio]
