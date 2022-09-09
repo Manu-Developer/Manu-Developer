@@ -1,4 +1,5 @@
 # Hi there, I'm Manuel <img src="https://user-images.githubusercontent.com/61896414/189249114-319675fd-4347-4f38-89de-003f3f9e40ae.gif" width="60" />
+![Banner](https://user-images.githubusercontent.com/61896414/189251100-c828343a-669d-488f-a831-ed16430cc2d1.svg)
 
 <img width="273px" height="253px" align="right" alt="Github" src="https://user-images.githubusercontent.com/61896414/189250575-60aa9cce-44e4-4022-922c-819fa49872f0.gif" />
 
