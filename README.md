@@ -10,7 +10,7 @@
 
 <p>It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!</p>
 
-## <a href = "https://manu-developer.github.io/Portfolio/" target="_blank">
+<a href = "https://manu-developer.github.io/Portfolio/" target="_blank">
   <img alt="Languages&Tools" src="https://user-images.githubusercontent.com/61896414/189260901-5a16af87-4e16-4a8e-a2a2-271180a9a0f6.gif" width="20" target="_blank"/</a>
 
 Languages & Tools
