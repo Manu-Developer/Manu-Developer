@@ -2,13 +2,13 @@
   <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189269511-7514715e-bf2f-48a2-9553-0ddce083e78b.svg" target="_blank"/>
 </a>
 
-<p>Here is Manuel, a passionate about programming who is currently living in Uruguay.</p>
+Here is Manuel, a passionate about programming who is currently living in Uruguay.
 
-<p>With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.</p>
+With strong logical skills in programming languages like JavaScript, always looking for different ways to challenge myself in order to improve and go beyond my limits.
 
-<p>I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.</p>
+I'm extremely interested in areas such as Graphic Design, which is one of the reasons why I got started in this beautiful journey called *Web Development*.
 
-<p>It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!</p>
+It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available!
 
 ## <img alt="Languages&Tools" src="https://user-images.githubusercontent.com/61896414/189260901-5a16af87-4e16-4a8e-a2a2-271180a9a0f6.gif" width="20" target="_blank"/> Languages & Tools
 
