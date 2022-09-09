@@ -15,6 +15,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 
 ## 🛠️ Languages & Tools
 
+<div>
 [<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="Sass" width="26px" src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg" style="padding-right:10px;" />][portfolio]
@@ -29,6 +30,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 [<img align="left" alt="Jest" width="26px" src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="Figma" width="26px" src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg" style="padding-right:10px;" />][portfolio]
 [<img align="left" alt="Illustrator" width="26px" src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" style="padding-right:10px;" />][portfolio]
+</div>
 
 ## 📈 My GitHub & Coding Stats
 
