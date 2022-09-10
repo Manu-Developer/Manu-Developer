@@ -21,8 +21,8 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 
 <div align="left">
   <a href="https://github.com/manu-developer">
-  <img alt="userStats" height="180em" src="https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img alt="userStats" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-developer&layout=compact&langs_count=7&theme=prussian"/>
+  <img alt="userStats" style="max-height:170em;" height="100%" src="https://github-readme-stats.vercel.app/api?username=manu-developer&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img alt="userStats" style="max-height:170em;" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-developer&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 
 ## <img alt="connectWithMe" src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
