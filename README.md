@@ -20,8 +20,7 @@ It'd be a pleasure to work with you on any kind of project, so don't hesitate to
 ## 🆕 My Projects
 
 - [Personal Portfolio](https://manu-developer.github.io/Portfolio/)
-- [Pokedex](https://manu-developer.github.io/pokedex/)
-- [GitHub User Finder](https://manu-developer.github.io/GitHub-Profile-Finder/)
+- [GitHub Profile Finder](https://manu-developer.github.io/GitHub-Profile-Finder/)
 - [eCommerce Website](https://manu-developer.github.io/proyectoJAP/)
 
 ## <img alt="connectWithMe" src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
