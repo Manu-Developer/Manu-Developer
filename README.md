@@ -1,5 +1,5 @@
 <a href = "https://manu-developer.github.io/Portfolio/" target="_blank">
-  <img width="100%" alt="Banner" src="https://user-images.githubusercontent.com/61896414/189546963-2dc2832b-d884-475a-a9ab-8b7ec7608dae.svg" target="_blank"/>
+  <img width="988" height="280" alt="Banner" src="https://github.com/user-attachments/assets/db2acaf8-a92a-49db-91b6-75f29374432e"  target="_blank"/>
 </a>
 
 <br />
