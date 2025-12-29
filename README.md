@@ -5,13 +5,20 @@
 <br />
 <br />
 
-Welcome to my profile! 👋 I'm Manuel Muñiz, a Software Developer from 📍Uruguay.
+👋 Hi! I'm Manuel Muñiz, a Computer Engineering student at Facultad de Ingeniería (UDELAR), based in Uruguay 🇺🇾.
 
-I'm currently a student pursuing my Bachelor of Computer Science at Facultad de Ingeniería (UDELAR) 📚. I'm a passionate learner who's always willing to learn and work across technologies and domains 🚀. Furthermore, I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Front-End Development 🌐 and working on my Data Structures and Algorithms 🤓.
+I'm mainly focused on **Front-End Development**, with experience building interfaces using modern web technologies. I also have a solid academic foundation in **C++**, **Object-Oriented Programming**, **Data Structures** and **Design Patterns**, which help me write cleaner and more maintainable code.
 
-My goal with coding is to help others 🎯. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well and use suggestions in order to create the best product 📦.
+I previously worked as **IP Support at Huawei**, where I gained practical experience in troubleshooting technical issues, improved my communication skills in technical contexts and learned to work effectively in professional tech environments.
 
-It'd be a pleasure to work with you on any kind of project, so don't hesitate to contact me, I'm always available! 📩 
+💻 What I enjoy most about programming is creating useful and well-structured solutions that people can actually use. I’m constantly improving my skills through practice, personal projects and university lectures.
+
+🚀 Currently:
+- Enhancing my Front-End skills.
+- Strengthening my knowledge in Data Structures & Algorithms.
+- Learning how to apply good software design principles in real projects.
+
+🤝 I value feedback and I’m always open to learning from others. If you’re interested in collaborating or just want to connect, feel free to reach out!
 
 ## 🛠️ Languages & Tools
 
