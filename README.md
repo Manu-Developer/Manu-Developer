@@ -22,9 +22,26 @@ I previously worked as **IP Support at Huawei**, where I gained practical experi
 
 ## 🛠️ Languages & Tools
 
-<p align="left"><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428860-4face69a-8dd8-4c53-9f1e-8d29b597e9ec.svg"  alt="HTML5" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428885-1e7eccdd-ebfd-4d4f-a76a-2ea61015a7df.svg"  alt="CSS3" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/177214421-d140ea2a-10f4-4794-bdd4-2ef4b49fb36a.svg"  alt="Sass" width="31"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184504340-85aaff91-7e8e-4e62-ab34-de91dbebdde2.svg"  alt="Bootstrap" width="31"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184408795-75ccb527-6986-4b6a-983c-814ca46ea7b7.svg"  alt="Tailwind" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"alt="JavaScript" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184429180-6a7e76e3-d106-4ccb-87ef-d2ff26687274.svg" alt="Git" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428397-f093e2fa-8f90-44f7-950f-950685b7b67a.svg" alt="Npm" width="33"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  alt="MySQL" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/177214116-4c13b863-c4dd-4afb-897e-1c692e7f8ae3.svg" alt="Jest" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184428998-de3ac665-9168-425d-972d-be349a32eb42.svg"  alt="Figma" width="30"/> </a><a href="https://manu-developer.github.io/Portfolio/" target="_blank"  rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61896414/184429057-153f40c0-6868-4c75-8dc6-18c423b9b427.svg" alt="Illustrator" width="30"/> </a></p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🆕 My Projects
+
+## 💻 My Projects
 
 - [Personal Portfolio](https://manu-developer.github.io/Portfolio/)
 - [GitHub Profile Finder](https://manu-developer.github.io/GitHub-Profile-Finder/)
