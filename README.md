@@ -52,15 +52,9 @@ I previously worked as **IP Support at Huawei**, where I gained practical experi
 <a href = "mailto:manuelmuniz.uy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-  
 <a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-  
 <a href="https://www.instagram.com/manuel_muniz03/?hl=es" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-  
-[portfolio]: https://manu-developer.github.io/Portfolio/
-[instagram]: https://www.instagram.com/manuel_muniz03/?hl=es
-[linkedin]: https://www.linkedin.com/in/manuel-muniz/?locale=en_US
