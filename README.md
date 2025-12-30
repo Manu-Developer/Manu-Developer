@@ -11,7 +11,7 @@ I'm mainly focused on **Front-End Development**, with experience building interf
 
 I previously worked as **IP Support at Huawei**, where I gained practical experience in troubleshooting technical issues, improved my communication skills in technical contexts and learned to work effectively in professional tech environments.
 
-💻 What I enjoy most about programming is creating useful and well-structured solutions that people can actually use. I’m constantly improving my skills through practice, personal projects and university lectures.
+💻 What I enjoy most about programming is creating useful and well-structured solutions that people can actually use. I’m constantly improving my skills through practice, personal projects and university courses.
 
 🚀 Currently:
 - Enhancing my Front-End skills.
