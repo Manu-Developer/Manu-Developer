@@ -49,12 +49,5 @@ I previously worked as **IP Support at Huawei**, where I gained practical experi
 
 ## <img alt="connectWithMe" src="https://user-images.githubusercontent.com/61896414/189247457-f90b083f-ebca-4d20-9a74-ff3b385df6ac.gif" width="45" target="_blank"/> Connect With Me
 
-<a href = "mailto:manuelmuniz.uy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-<a href="https://www.instagram.com/manuel_muniz03/?hl=es" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
+<a href="mailto:manuelmuniz.uy@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/manuel-muniz/?locale=en_US" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
